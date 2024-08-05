@@ -26,11 +26,38 @@ Pizzanix, a shop that showcase a very diverse menu, featuring a wide range of op
 
 - Avg Pizzas per order
 
-## Data visualizations
+## Data Analysis Presentation
 For full page link of the Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
 
 ![Pizza_sales_Dashboard](pizza_sales_DB_ss_1.PNG)
 
 ![Pizza_sales_Dashboard](pizza_sales_DB_ss_2.PNG)
 
-<br></br>
+
+## Summary of Insights
+
+  - Fewer bike activities during cold months both Casual and Member
+    
+  - Shorter rides during cold months both Casual and Member
+    
+  - Casual riders use bikes more during weekends
+    
+  - Member riders mostly use bikes during weekdays
+  
+  - Casual riders are using bike for leisure or other non-work activities specially weekend which is good enough for a single ride or full day passes
+  
+  - Member riders might be using bike for work related and other important daily activities
+  
+  - The average ride length per Member rider is much lower compared to Casual as they’re using the bike as their means of transportation for work
+
+## Recommendations
+<b>To convert Casual riders or gradually convince them to upgrade to Membership, below are the recommendations:</b>
+
+  - Start with creating promos in riding a bike during weekdays and then add new option to current Single ride and Full day pass – Whole week pass with an option of upgrade to 6 months or whole year pass (Membership) with discount.
+  
+  - Create a simple report tool that can check casual riders with multiple consecutive purchase of Single ride, Full day or Whole week passes. And give them an option to Upgrade to Membership with good discount.
+  
+  - Create a promo to Casual riders that if they reached a certain Miles/Length of ride, number of rides, duration of ride, etc.,  they can receive rewards or special discount to upgrade.
+
+
+## Data Analysis Presentation
