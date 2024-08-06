@@ -9,7 +9,7 @@ Pizzanix showcase a very diverse menu, featuring a wide range of options to cate
 - Total Orders weekly (day of week) and monthly for the stock inventory
 - Daily and Monthly Pizza Sold and Orders Trend
 - Percentage sales of pizza by size and flavor category
-- Hourly Order trend for worker's time management
+- Hourly Order trend for worker's time and workload management
 - List of top 5 and bottom 5 selling pizzas by total sales, quantity and orders
 
 Data insights will be used for the next strategic planning of the business
@@ -25,7 +25,7 @@ Data insights will be used for the next strategic planning of the business
 
 - Avg Pizzas per order - average number of pizza sold per order
 
-## Data Analysis Presentation
+## Data Visualization
 For full page link of the Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
 
 ![Pizza_sales_Dashboard](pizza_sales_DB_ss_1.PNG)
@@ -35,19 +35,21 @@ For full page link of the Power BI Dashboard click this link - [App Power BI lin
 
 ## Summary of Insights
 
-  - Fewer bike activities during cold months both Casual and Member
+  - Pizza sells the most during weekdays (Sunday and Saturday)
     
-  - Shorter rides during cold months both Casual and Member
+  - July had the highest number of orders followed by January, March, May and August
     
-  - Casual riders use bikes more during weekends
+  - Each pizza category sells almost evenly - Classic (27%), Supreme (25%), Chicken (24%), Veggie (24%)
     
-  - Member riders mostly use bikes during weekdays
+  - Large(46%) pizza sells the most followed by Medium(30.5%) and Small(21.8%).
   
-  - Casual riders are using bike for leisure or other non-work activities specially weekend which is good enough for a single ride or full day passes
+  - XL(1.7%) and XXL(0.1%) doesn't sell much with total of 552 pizza sold for XL and only 28 for XXL for the past 12 months
   
-  - Member riders might be using bike for work related and other important daily activities
-  
-  - The average ride length per Member rider is much lower compared to Casual as they’re using the bike as their means of transportation for work
+  - Peak hour of selling pizza is around 12PM. Low orders between 9AM-11AM and 10PM-12AM
+
+  - Top selling pizzas are Thai Chicken, BBQ Chicken, California Chicken, Classic Deluxe and Spicy Italian
+
+  - Bottom seeling pizzas are Brie Carre, Green Garden, Spinach Supreme, Mediterranean and Spinach Pesto
 
 ## Recommendations
 <b>To convert Casual riders or gradually convince them to upgrade to Membership, below are the recommendations:</b>
