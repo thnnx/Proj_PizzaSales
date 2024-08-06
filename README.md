@@ -3,28 +3,27 @@ Pizzanix showcase a very diverse menu, featuring a wide range of options to cate
 
 ## Problem Statement
 
-- Provide list of Key performance indicator (KPI) to evaluate the business performance for the past 12 months
-- Analyze the KPIs and calculate specific metrics
-  - Total Sales, pizza sold and orders for the past 12 months
+- Provide and analyze list of Key performance indicator (KPI) using specific metrics to evaluate the business performance for the past 12 months
+  - Total Sales, pizza sold and orders
   - Average value and pizza sold per order
 - Total Orders weekly (day of week) and monthly for the stock inventory
 - Daily and Monthly Pizza Sold and Orders Trend
-- Sales of pizza by Size and Flavor Category
+- Percentage sales of pizza by size and flavor category
 - Hourly Order trend for worker's time management
 - List of top 5 and bottom 5 selling pizzas by total sales, quantity and orders
 
 Data insights will be used for the next strategic planning of the business
 
 ## Metrics
-- Total Revenue - sum of price of all pizza orders
+- Total Revenue - sum of price of pizza orders
   
-- Total Pizza Sold - sum of the quantities of all pizzas sold 
+- Total Pizza Sold - sum of the quantities of pizzas sold 
   
 - Total Orders - total number of order placed
   
-- Avg Order per value - average amount spent per order
+- Avg Order per value - average price amount spent per order
 
-- Avg Pizzas per order
+- Avg Pizzas per order - average number of pizza sold per order
 
 ## Data Analysis Presentation
 For full page link of the Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
