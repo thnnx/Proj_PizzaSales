@@ -1,12 +1,15 @@
 # Pizzanix Sales Analysis
-Pizzanix, a shop that showcase a very diverse menu, featuring a wide range of options to cater to different tastes and preferences. From Classic flavors to unique creations like BBQ Chicken, Veggies and Supreme. Additionally, it offers various sizes to accommodate individual appetites or group gatherings from the smallest, S to the largest, XXL.
+Pizzanix showcase a very diverse menu, featuring a wide range of options to cater to different tastes and preferences. From Classic flavors to unique creations like BBQ Chicken, Veggies and Supreme. Additionally, it offers various sizes to accommodate individual appetites or group gatherings from the smallest, S to the largest, XXL.
 
 ## Objectives - Problem Statement
 
 - Provide list of Key performance indicator (KPI) to evaluate the business performance for the past 12 months.
 - Analyze the KPIs to answer the following questions:
   
-  - List of the 5 top and bottom selling pizzas? Show total sales, quantity, orders.
+  - Total Sales, pizza sold and orders for the past 12 months.
+  - Average value  and average pizza sold per order.
+  - 
+  - List of top 5 and bottom 5 selling pizzas by total sales, quantity and orders.
   - What day of the week sells more pizza?
   - Daily Sold / Orders Trend
   - Monthly Sold / Orders Trend
