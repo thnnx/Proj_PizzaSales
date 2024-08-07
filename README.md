@@ -7,7 +7,7 @@ The owner wants the report of overall sales performance of the business for the 
 
 ## Problem Statement
 
-- Provide and analyze list of Key performance indicator(KPI) using specific metrics to evaluate the business performance for the past 12 months
+- Identify and analyze list of Key performance indicator(KPI) using specific metrics to evaluate the business performance for the past 12 months
   - Total Sales, pizza sold and orders
   - Average value and pizza sold per order
 - Total Orders weekly (day of week) and monthly for the stock inventory
