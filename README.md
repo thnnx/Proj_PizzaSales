@@ -1,5 +1,9 @@
-# Pizzanix
-Pizzanix showcase a very diverse menu, featuring a wide range of options to cater to different tastes and preferences. From Classic flavors to unique creations like BBQ Chicken, Veggies and Supreme. Additionally, it offers various sizes to accommodate individual appetites or group gatherings from the smallest, S to the largest, XXL.
+# Pizza Sales Data Analysis Project
+
+## Overview
+Pizzanix showcase a very diverse menu, featuring a wide range of options to cater to different tastes and preferences. From Classic flavors to unique creations like BBQ Chicken, Veggies and Supreme. Additionally, it offers various sizes to accommodate individual appetites or group gatherings from the smallest, S to the largest, XXL. 
+
+The owner wants the report of overall sales performance of the business for the last 12 months and display it in a dashboard. They will use these reports for their next strategic planning for the growth of the business.
 
 ## Problem Statement
 
@@ -12,8 +16,6 @@ Pizzanix showcase a very diverse menu, featuring a wide range of options to cate
 - Hourly Order trend for worker's time and workload management
 - List of top 5 and bottom 5 selling pizzas by total sales, quantity and orders
 
-Data insights will be used for the next strategic planning of the business
-
 ## Metrics
 - Total Revenue - sum of price of pizza orders
 - Total Pizza Sold - sum of the quantities of pizzas sold 
@@ -23,7 +25,7 @@ Data insights will be used for the next strategic planning of the business
 - Avg Order per day - average number of order per day
 
 ## Data Visualization
-For full page link of the Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
+Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
 
 ![Pizza_sales_Dashboard](pizza_sales_DB_ss_1.PNG)
 
@@ -46,9 +48,9 @@ For full page link of the Power BI Dashboard click this link - [App Power BI lin
   - Weekly restocking of supplies should be done a day or two prior the most selling day of the week (Sunday and Saturday)
   - Focus more on restocking monthly for the following top selling months - Januray, March, May, July and August
   - Consider making another menu category (e.i Meaty, Beefy, etc)
-  - Focus on more on selling L, M, S sizes of pizza.
-  - Evaluate if you will continue on selling XL and XXL as these two only sells a combined of less than 2% of the total sales.
-  - Alot more workers during the peak hours, 12PM-2PM and 4PM-7PM.
-  - Consider changing the opening hours from 9AM to 10AM or 11AM, and Closing hours to 10PM or 11PM for worker's hour and workload efficiency.
-  - Focus more on selling the top selling pizzas and evaluate if you can remove in the menu the bottomg selling pizzas.
+  - Focus more on selling L, M, S sizes of pizza instead of XL and XXL, as these two had the lowest sales.
+  - Evaluate if you will continue on selling XL and XXL, they only sells a combined of less than 2% of the total sales.
+  - Allocate more people during 12PM-2PM and 4PM-7PM to cater the surge or orders during these peak hours.
+  - Consider changing the opening hours from 9AM to 10AM or 11AM, and Closing hours to 10PM or 11PM due to low to zero number of orders during these hours, for worker's hour and workload efficiency
+  - Focus more on selling the top selling pizzas and evaluate if you can remove / replace the bottomg selling pizzas in the menu.
   - Alternatively, you can make promotional sale for the low selling pizzas like discounts, buy 1 take 1, etc.
