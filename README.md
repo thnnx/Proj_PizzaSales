@@ -34,11 +34,11 @@ Full page link of the Interactive Power BI Dashboard click this link - [App Powe
 
 ## Summary of Insights
 
-  - Pizza sells the most during weekdays (Sunday and Saturday)
-  - July had the highest number of orders followed by January, March, May and August
+  - Pizza sells the most during weekdays (Sunday and Saturday) and lowest every Tuesday
+  - July had the highest number of orders followed by January, March, May and August, with the lowest in October.
   - Each pizza category sells almost evenly - Classic (27%), Supreme (25%), Chicken (24%), Veggie (24%)
   - Large(46%) pizza sells the most followed by Medium(30.5%) and Small(21.8%).
-  - XL(1.7%) and XXL(0.1%) doesn't sell much with total of 552 pizza sold for XL and only 28 for XXL for the past 12 months
+  - XL(1.7%) and XXL(0.1%) have the lowest sale with total of 552 pizza sold for XL and only 28 for XXL for the past 12 months
   - Peak hour of selling pizza is around 12PM. Low orders between 9AM-11AM and 10PM-12AM
   - Top selling pizzas are Thai Chicken, BBQ Chicken, California Chicken, Classic Deluxe and Spicy Italian
   - Bottom seeling pizzas are Brie Carre, Green Garden, Spinach Supreme, Mediterranean and Spinach Pesto
@@ -47,7 +47,7 @@ Full page link of the Interactive Power BI Dashboard click this link - [App Powe
 
   - Weekly restocking of supplies should be done a day or two prior the most selling day of the week (Sunday and Saturday)
   - Focus more on restocking monthly for the following top selling months - Januray, March, May, July and August
-  - Consider making another menu category (e.i Meaty, Beefy, etc)
+  - Consider adding another menu category (Meaty, Beefy, etc) to add more variety on the flavor.
   - Focus more on selling L, M, S sizes of pizza instead of XL and XXL, as these two had the lowest sales.
   - Evaluate if you will continue on selling XL and XXL, they only sells a combined of less than 2% of the total sales.
   - Allocate more people during 12PM-2PM and 4PM-7PM to cater the surge or orders during these peak hours.
