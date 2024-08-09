@@ -1,6 +1,5 @@
 # Pizza Sales Data Analysis Project
 
-## Overview
 Pizzanix showcase a very diverse menu, featuring a wide range of options to cater to different tastes and preferences. From Classic flavors to unique creations like BBQ Chicken, Veggies and Supreme. Additionally, it offers various sizes to accommodate individual appetites or group gatherings from the smallest, S to the largest, XXL. 
 
 The owner wants the report of overall sales performance of the business for the last 12 months and display it in a dashboard. They will use these reports for their next strategic planning for the growth of the business.
