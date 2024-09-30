@@ -24,7 +24,7 @@ The owner wants the report of overall sales performance of the business for the 
 - Avg Order per day - average number of order per day
 
 ## Data Visualization
-Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/reportEmbed?reportId=bff43e67-df8a-45ab-b829-2daf0a4da340&autoAuth=true&ctid=a4e78b81-874a-4832-88f0-12bd163108f4)
+Full page link of the Interactive Power BI Dashboard click this link - [App Power BI link](https://app.powerbi.com/view?r=eyJrIjoiNGVhYTE3YTktYjVhYi00ZTJlLWE5YTEtM2VkMjg2NGM5ZDVkIiwidCI6ImE0ZTc4YjgxLTg3NGEtNDgzMi04OGYwLTEyYmQxNjMxMDhmNCIsImMiOjEwfQ%3D%3D)
 
 ![Pizza_sales_Dashboard](pizza_sales_DB_ss_1.PNG)
 
